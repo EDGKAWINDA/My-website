@@ -1,0 +1,192 @@
+/* ----------------------------------------------------------------------- TAG SELECTORS ----------------------------------------------------------------------- */
+
+*{
+    margin: 0%;
+}
+
+body{
+    text-align: center;
+
+}
+
+h1{
+padding-top: 90px;
+color: white;   
+font-size: 4rem;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+h2{
+    color: black;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    color:#373b43;   
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+hr{
+    margin: 50px auto 50px auto;
+}
+
+.SkillsRow {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    /*margin 50px auto*/
+    text-align: justify;
+
+}
+
+
+.SkillsRow img{
+    width: 15%;
+    
+
+}
+
+.SkillsImage{
+    margin: 50px ;
+    float: left;
+}
+
+p{
+
+line-height: 20px;
+font-family: 'Roboto', sans-serif
+}
+
+h3{
+    margin: 20px auto 20px auto;
+}
+.ClearFix{
+    clear: both;
+}
+
+.WhatIcandoImage{
+    margin: 50px;
+    float: right;
+}
+
+hr{
+    border: dotted #9ca5b5 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+/* ----------------------------------------------------------------------- TOP CONTAINER ----------------------------------------------------------------------- */
+
+.top-containe{
+    background-color:#fca73e;
+    height: 873px;
+}
+
+.Mainimage{
+    padding-top: 60px;
+
+}
+
+.Design01{
+    position: absolute;
+    bottom: 200px;
+    right: 250px;
+    
+}
+
+.Design02{
+    position: absolute;
+    top: 70px;
+    right: 350px;
+    
+}
+
+.Design03{
+    position: absolute;
+    bottom: 500px;
+    left: 350px;
+    
+}
+
+/* ----------------------------------------------------------------------- MIDDLE CONTAINER ----------------------------------------------------------------------- */
+
+.middle-containe{
+    background-color: white;
+    margin-top: 70px;
+
+}
+
+.Headings{
+    color: #55beb7;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Profile{
+    margin-bottom: 50px;
+
+}
+
+.Profile_Intro{
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+}
+
+.CTAText{
+    width: 40%;
+    margin: 35px auto;
+    text-align: center;
+
+}
+
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #55beb7, #2c8b85);
+    padding: 10px 30px 10px 30px; 
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.IYLW{
+    font-size: 1.3rem;
+    font-family: 'Roboto', sans-serif
+}
+
+.btn:hover{
+    background-image: linear-gradient(to bottom, #55beb7,  #55beb7);
+}
+
+/* ----------------------------------------------------------------------- BOTTOM CONTAINER ----------------------------------------------------------------------- */
+
+.bottom-containe{
+    margin-top: 50px;
+    background-color:#55beb7;
+    padding: 60px 0 60px 0;
+}
+.bottom-containe a{
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    color: #155e59;
+    margin: 0 50px 30px 10px;
+}
+
+.bottom-containe a:hover{
+    color: white;
+}
+
+.bottom-containe p{
+    margin: 20px;
+    font-size: 0.75rem;
+    color: white;
+}
